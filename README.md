@@ -22,7 +22,7 @@ This project includes a `frontend/components` folder containing several React co
 - [ ] CD into the project base directory.
 - [ ] Download project dependencies by running `npm install`.
 - [ ] Start up the app using `npm run dev`.
-- [ ] Push commits: `git push origin main`.
+- [ ] Push commits: `git push origin main`
 
 ### Task 2: Minimum Viable Product
 
